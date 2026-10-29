@@ -1,6 +1,4 @@
-# shingoto1112
 
-React / TypeScript を中心に、実際の作業を楽にするWebツールを作っています。
 
 ## Main Project
 
@@ -16,9 +14,3 @@ React / TypeScript を中心に、実際の作業を楽にするWebツールを�
 
 [アプリを開く](https://tairetsu-maker.vercel.app/)
 
-## Interest
-
-- フロントエンドUI/UX
-- 業務・現場向けWebアプリ
-- クラウド共同編集
-- TypeScript / React / Supabase
